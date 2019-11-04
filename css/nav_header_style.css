@@ -1,0 +1,297 @@
+.wrapper {
+    margin: 0 auto;
+    position: relative;
+    width: 1440px;
+    height: 3559px;
+
+    background: #FFFFFF;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    ;
+
+    position: absolute;
+    width: 1293px;
+    height: 35.95px;
+    left: 98px;
+    top: 48px;
+
+}
+
+
+nav img {
+
+
+    width: 172px;
+    height: 35.95px;
+
+}
+
+
+
+
+
+nav a:nth-of-type(1) {
+
+    width: 91.65px;
+    height: 20px;
+
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.02em;
+    color: #515151;
+    text-decoration: none;
+    margin: 0 21px;
+}
+
+nav a:nth-of-type(2) {
+
+    width: 51.62px;
+    height: 20px;
+
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.02em;
+
+    color: #515151;
+    text-decoration: none;
+    margin: 0 21px;
+}
+
+
+nav a:nth-of-type(3) {
+
+
+    width: 86.38px;
+    height: 20px;
+
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.02em;
+
+    color: #515151;
+    text-decoration: none;
+    margin: 0 21px;
+}
+
+
+nav a:nth-of-type(4) {
+
+    width: 74.79px;
+    height: 20px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.02em;
+
+    color: #515151;
+    text-decoration: none;
+    margin: 0 21px;
+}
+
+header {
+    position: absolute;
+    width: 1440px;
+    height: 585px;
+    left: 0px;
+    top: 95px;
+
+
+}
+
+
+
+.header_imgmain {
+    position: absolute;
+    width: 1440px;
+    height: 585px;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+}
+
+.heander_title {
+    position: absolute;
+    width: 507px;
+    height: 161px;
+    left: 500px;
+    top: 77px;
+
+}
+
+
+
+
+header h1 {
+    position: relative;
+    width: 507px;
+    height: 118px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 100px;
+    line-height: 117px;
+
+    /* identical to box height */
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #FFC53D;
+
+    z-index: 2;
+}
+
+header p {
+    position: relative;
+    width: 507px;
+    height: 45px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+    z-index: 2;
+}
+
+
+
+
+
+
+header a:nth-of-type(1) {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 665px;
+    top: 266px;
+    background: #FFFFFF;
+    border-radius: 50%;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+header a:nth-of-type(2) {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 715px;
+    top: 266px;
+    z-index: 1;
+    background: #FFFFFF;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+header a:nth-of-type(3) {
+    position: absolute;
+    width: 25.64px;
+    height: 25px;
+    left: 765px;
+    top: 266px;
+
+
+
+
+    border-radius: 50%;
+
+
+
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+header a:nth-of-type(4) {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 816px;
+    top: 266px;
+    background: #FFFFFF;
+    border-radius: 50%;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+header a:nth-of-type(1) img {
+    position: relative;
+    width: 15.39px;
+    height: 12.5px;
+
+
+    background: #FF9A3D;
+    mix-blend-mode: normal;
+    z-index: 3;
+}
+
+
+
+header a:nth-of-type(2) img {
+    position: relative;
+    width: 12.5px;
+
+
+
+    background: #FF9A3D;
+    mix-blend-mode: normal;
+    z-index: 5;
+}
+
+header a:nth-of-type(3) img {
+    position: relative;
+
+
+
+    mix-blend-mode: normal;
+    z-index: 4;
+}
+
+
+
+header a:nth-of-type(4) img {
+    position: relative;
+    width: 8.59px;
+    height: 16.67px;
+
+    background: #FF9A3D;
+    z-index: 5;
+}
